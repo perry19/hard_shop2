@@ -1,7 +1,7 @@
 # hardshop2
 
 This project is a hardware store still under development. based on firebase and flutter.
-Your ideas and contributoin are highly welcome
+Your ideas and contributions are highly welcome.
 
 ## Getting Started
 
